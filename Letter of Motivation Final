@@ -1,0 +1,76 @@
+%% start of file `template.tex'.
+%% Author: Suvendu Kumar Dash
+%\title{Letter of Motivation Final}
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+
+% personal data
+\name{Suvendu Kumar}{Dash}
+
+\title{Motivational Letter Final}                               % optional, remove / comment the line if not wanted
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{Dr. Daniel Lucani}{Aarhus University\\Denmark}
+\date{August 10, 2017}
+\opening{Respected Sir,}
+\closing{Yours faithfully,}
+
+\makelettertitle
+
+My name is Suvendu Kumar Dash, and I hold M.Tech degree in Electronics \& Communication Engineering (VLSI \& Embedded System Design) from the Vel Tech Dr. RR \& Dr. SR Technical University in collaboration with Center for Development of Advance Computing (C-DAC, Pune). I’m writing this letter to express my strong motivation for the PhD position in Adaptive Network Coding to Develop Future Networks and Cloud Technology at Aarhus University.
+
+My particular interest in Embedded System Design, IoT and its related areas like Network Programming, Data analysis, WSN. I am working as a Junior Research Fellow under the project “16- Channel Wireless Acquisition System for Magnetic Diagnostics of ADITYA-U Tokamak” sponsored by PFRC, BRNS-Department of Atomic Energy, Government of India at Trident Academy of Technology, Bhubaneswar, Odisha, India. Here I am working on 
+
+* Design and Development of a wireless digitizer which will use in Aditya-U Tokamak.
+
+* Up to now I completed the 1(one) channel wireless digitizer with analysis the data from a ratiometric linear Hall Effect sensor in different environment like High Voltage environment, three different axis, Helmholtz coil.
+
+* Now I’m working on to extend the channel up to 16(sixteen) and also simultaneously working on to develop the Energy harvesting from RF signal concept to make our design energy efficient.
+
+From Starting of my M.Tech, I’m very much enthusiastic in open source platform. That’s why in my master degree subject I choose
+
+* Device Driver Development
+
+* Network Programming
+
+* Up Coming Technology-IoT like subject which made my interest towards IoT, Data Analysis, Uses of cloud platform like IBM Bluemix, Google Cloud IoT, Think Speak.
+
+In my master degree final year project I developed a LCD device driver using OMAPL138 for a Protection Relay with some peer publications in International Journal and Conferences.
+
+After doing my official research work, I’m also working on few research/learning project in my individual capacity like
+
+* Created different custom add-ons for Node-RED.
+ 
+* Qt programming for HTTP REST clients.
+ 
+* Using SiteWhere management system to connect devices using MQTT, AMQP and other protocols.
+
+* Participated in SAP’s “Imagin IoT” and “Touch IoT with SAP Leonado” course and Prototype challenge, where I design an UX design in “Solar based waste management system” where I am awarded by Record of Achievement certificate by SAP.
+
+* Developing different IoT mobile application through MIT App Inventor.
+
+I am interested do PhD because I have a hunger to do research in IoT, Embedded System, Open Source Technology and I know that only the reach period of PhD would enable me to get that research done. And the more practical reason is that I want a career in academia and nowadays if you want a career in academia you really need that level of training. Only it is possible by doing PhD. I firmly believe that a PhD position at your university is an excellent choice for myself, and I think this is an opportunity for me to deepen my knowledge, pursue my passion and give contributions to the society. From my practical experience and theoretical knowledge I found myself ideal for this position. Therefore, it will be a great honor if I can work under the supervision of prominent faculties and scientists within a well-equipped research facilities and in a hectic academic atmosphere of your university.
+
+I hope to your prompt response. If you need any further information or documents feel free to contact. I appreciate the time and efforts you invested in assessing my application.
+
+\makeletterclosing
+
+\end{document}
+
+
+%% end of file `template.tex'.
